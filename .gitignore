@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.DS_Store
+*.zip
+*.7z
+*.pt
+*.pth
+*.ckpt
+*.log
+*.tmp
+*.swp
